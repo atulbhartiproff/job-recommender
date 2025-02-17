@@ -80,8 +80,11 @@ This project is licensed under the MIT License.
 ## 🌟 Acknowledgments
 	
   • Kaggle for the dataset
+  
   • Scikit-learn for ML tools
+  
   • Pandas & NumPy for data handling
+
 ---
 
 ## 🚀 Happy Coding! 🎯
