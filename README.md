@@ -53,24 +53,35 @@ Or use it on Kaggle: ![Open Notebook](https://www.kaggle.com/code/atulbhartiprof
 	•	Content-Based Filtering – Uses TF-IDF + Cosine Similarity to match job descriptions with user profiles.
 	•	Hybrid Approach (Future Work) – Combining both for better accuracy.
 
+---
+
 ## 📌 Results
 
 ✅ Accurately recommends jobs to users with similar profiles.
+
 ✅ Finds relevant jobs based on job descriptions.
+
 📈 Potential improvements: Hyperparameter tuning, deep learning methods.
+
+--- 
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo, create a branch, and submit a PR.
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
 
 ## 🌟 Acknowledgments
 	
   •	Kaggle for the dataset
 	•	Scikit-learn for ML tools
 	•	Pandas & NumPy for data handling
+---
 
 ## 🚀 Happy Coding! 🎯
