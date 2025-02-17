@@ -49,9 +49,11 @@ Or use it on Kaggle: ![Open Notebook](https://www.kaggle.com/code/atulbhartiprof
 
 ## 📊 Methodology
 	
-  •	Collaborative Filtering – Finds similar users based on profiles.
-	•	Content-Based Filtering – Uses TF-IDF + Cosine Similarity to match job descriptions with user profiles.
-	•	Hybrid Approach (Future Work) – Combining both for better accuracy.
+  • Collaborative Filtering – Finds similar users based on profiles.
+  
+  • Content-Based Filtering – Uses TF-IDF + Cosine Similarity to match job descriptions with user profiles.
+  
+  • Hybrid Approach (Future Work) – Combining both for better accuracy.
 
 ---
 
