@@ -39,6 +39,9 @@ git clone https://github.com/your-username/job-recommendation-system.git
 cd job-recommendation-system
 pip install -r requirements.txt
 ```
+
+---
+
 ##🚀 Usage
 
 Run the notebook:
